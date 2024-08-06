@@ -8,10 +8,6 @@ This project focuses on recommending crops based on various environmental and so
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
